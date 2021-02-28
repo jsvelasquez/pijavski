@@ -1,0 +1,9 @@
+README.md
+pijavski.py
+setup.py
+./src/pijavski.cpp
+pijavski.egg-info/PKG-INFO
+pijavski.egg-info/SOURCES.txt
+pijavski.egg-info/dependency_links.txt
+pijavski.egg-info/requires.txt
+pijavski.egg-info/top_level.txt
